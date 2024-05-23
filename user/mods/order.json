@@ -1,0 +1,17 @@
+{
+  "order": [
+    "fika-server",
+    "ServerValueModifier",
+    "zSolarint-SAIN-ServerMod",
+    "BRNVG_N-15Adapter",
+    "Bloody-Bullet-Wounds",
+    "DanW-SPTQuestingBots",
+    "DewardianDev-AlgorithmicLevelProgression",
+    "dirtbikercj-removetimegatefromquests-1.0.1",
+    "Fontaine-FOV-Fix",
+    "MoreCheckmarksBackend",
+    "Skwizzy-NoDiscardLimit",
+    "SWAG",
+    "zrairaitheraichu-ammostats-3.1.1"
+  ]
+}
